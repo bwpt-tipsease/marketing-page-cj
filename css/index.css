@@ -64,10 +64,9 @@ h3 {
 p {
   font-size: 1.6rem;
   line-height: 1.4;
-}
+}   
 .container {
   max-width: 800px;
-  background: #00FF00;
   width: 100%;
   margin: 0 auto;
 }
